@@ -24,6 +24,17 @@ header {
   list-style-type : none;
 }
 
+.nav li {
+  font-weight: 100; 
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.nav li:hover{
+  background-color: white;
+  border: 1px solid black;
+}
+
 
 h1 {
   font-family: Helvetica;
