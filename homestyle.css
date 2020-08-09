@@ -37,8 +37,13 @@ header {
   font-weight: 150;
 }
 
-
 h1 {
   font-family: Helvetica;
   color: maroon;
+}
+
+.intro {
+  text-align: center;
+  margin: 0 auto;
+  font-family: Helvetica;
 }
