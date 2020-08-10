@@ -42,7 +42,8 @@ h1 {
   color: maroon;
 }
 
-p{
+.intro p{
+  padding: 10px;
   text-align: center;
   margin: 0 auto;
   font-family: Helvetica;
