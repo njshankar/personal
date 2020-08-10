@@ -59,3 +59,9 @@ header h1 a{
   color: black;
 }
 
+.aboutme{
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Helvetica;
+}
