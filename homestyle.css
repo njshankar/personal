@@ -48,3 +48,7 @@ h1 {
   margin: 0 auto;
   font-family: Helvetica;
 }
+
+.nav a{
+  text-decoration: none;
+}
