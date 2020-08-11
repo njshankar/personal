@@ -30,6 +30,7 @@ header {
   padding: 5px;
   width: 133px;
   border: 1px solid black;
+  display: inline-block;
 }
 
 .nav li:hover{
