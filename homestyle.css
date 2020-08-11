@@ -77,4 +77,5 @@ header h1 a{
   display: inline-block;
   text-align: center;
   font-family: Helvetica;
+  border: 1px solid black
 }
