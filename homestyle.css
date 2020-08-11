@@ -72,3 +72,9 @@ header h1 a{
   text-align: center;
   list-style-type : none;
 }
+
+.post {
+  display: inline-block;
+  text-align: center;
+  font-family: Helvetica;
+}
