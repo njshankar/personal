@@ -78,9 +78,9 @@ header h1 a{
 }
 
 .pgrid {
-  margin: 0 auto;
+  margin: 30px auto;
   display: grid;
-  grid-template: repeat(4, 1fr) / repeat(11, 1fr);
+  grid-template: repeat(4, 1fr) / repeat(9, 1fr);
   grid-gap: 20px / 20px;
   background-color: blue;
 }
