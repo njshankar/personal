@@ -5,7 +5,9 @@ body {
 
 header {
   text-align: center;
-  border: 3px solid black;
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: 1px;
   width: 400px;
   margin: 0 auto;
 }
