@@ -82,6 +82,7 @@ header h1 a{
   display: grid;
   grid-template: repeat(11, 1fr) / repeat(4, 1fr);
   grid-gap: 20px / 20px;
+  background-color: blue;
 }
 
 .post {
