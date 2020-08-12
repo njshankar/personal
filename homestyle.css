@@ -5,9 +5,9 @@ body {
 
 header {
   text-align: center;
-  border-top-style: solid;
-  border-top-color: black;
-  border-top-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 1px;
   width: 400px;
   margin: 0 auto;
 }
