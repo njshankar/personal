@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  font-family: "Nunito Sans", Helvetica, sans-serif;
 }
 
 
@@ -13,7 +14,6 @@ header {
 }
 
 .nav {
-  font-family: Helvetica;
   background-color: Burnt orange;
   width: 400px;
   border-top-style: solid;
@@ -45,7 +45,6 @@ header {
 }
 
 h1 {
-  font-family: "Nunito Sans", Helvetica, sans-serif;
   color: maroon;
 }
 
@@ -53,7 +52,6 @@ h1 {
   padding: 10px;
   text-align: center;
   margin: 0 auto;
-  font-family: Helvetica;
 }
 
 .nav ul li a{
@@ -70,7 +68,6 @@ header h1 a{
   padding: 10px;
   text-align: center;
   margin: 0 auto;
-  font-family: Helvetica;
 }
 
 .aboutme ul {
