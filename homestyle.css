@@ -16,7 +16,12 @@ header {
   font-family: Helvetica;
   background-color: DeepSkyBlue;
   width: 400px;
-  border: 3px solid black;
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 1px;
   margin: 0 auto;
 }
 
@@ -31,13 +36,11 @@ header {
   font-weight: 100; 
   padding: 5px;
   width: 100px;
-  border: 1px solid black;
   display: inline-block;
 }
 
 .nav li:hover{
   background-color: white;
-  border: 1px solid black;
   font-weight: 150;
 }
 
