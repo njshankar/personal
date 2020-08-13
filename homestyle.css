@@ -84,3 +84,11 @@ header h1 a{
   width: 600px;
   border: solid black 1px;
 }
+
+.subbox{
+  padding: 10px;
+  text-align:center;
+  width: 160px;
+  margin: 10px 10px;
+  border: solid blue 1px;
+}
