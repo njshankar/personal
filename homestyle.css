@@ -77,7 +77,7 @@ header h1 a{
   list-style-type : none;
 }
 
-.projectbox{
+.boxcontainer{
   padding: 10px;
   text-align: center;
   margin: 50px auto;
@@ -90,7 +90,7 @@ header h1 a{
   width: 160px;
   height: 140px;
   margin: 10px 10px;
-  border: solid blue 1px;
+  border: solid black 1px;
   display: inline-block;
 }
 
