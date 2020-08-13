@@ -76,3 +76,11 @@ header h1 a{
   text-align: center;
   list-style-type : none;
 }
+
+.projectbox{
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  width: 600px;
+  border: solid black 1px;
+}
