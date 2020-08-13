@@ -91,4 +91,5 @@ header h1 a{
   width: 160px;
   margin: 10px 10px;
   border: solid blue 1px;
+  display: inline-block;
 }
