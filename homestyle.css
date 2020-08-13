@@ -41,7 +41,7 @@ header {
 
 .nav li:hover{
   background-color: white;
-  font-weight: 150;
+  font-weight: bold;
 }
 
 h1 {
