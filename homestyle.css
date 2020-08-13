@@ -80,7 +80,7 @@ header h1 a{
 .projectbox{
   padding: 10px;
   text-align: center;
-  margin: 100px auto;
+  margin: 50px auto;
   width: 700px;
 }
 
@@ -88,6 +88,7 @@ header h1 a{
   padding: 10px;
   text-align:center;
   width: 160px;
+  height: 140px;
   margin: 10px 10px;
   border: solid blue 1px;
   display: inline-block;
