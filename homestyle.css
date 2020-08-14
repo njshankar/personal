@@ -106,3 +106,9 @@ header h1 a{
   margin: 0 auto;
   width: 700px;
 }
+
+.imagebox{
+  width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
