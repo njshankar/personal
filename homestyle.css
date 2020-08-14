@@ -100,5 +100,5 @@ header h1 a{
 }
 
 .subbox a{
-  margin: auto auto;
+  vertical-align: middle;
 }
