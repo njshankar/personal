@@ -112,3 +112,9 @@ header h1 a{
   margin: 0 auto;
   padding: 10px;
 }
+
+.imagebox img{
+  width: 500px;
+  margin: 0 auto;
+  height: 370px;
+}
