@@ -100,7 +100,7 @@ header h1 a{
 }
 
 .subbox a{
-  vertical-align: middle;
+  padding: 10px 10px;
 }
 
 .notes{
