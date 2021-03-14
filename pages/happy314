@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>Nathan (JJ) Shankar | Some things that make me happy (3/13)</title>
+    <link href = "https://njshankar.github.io/personal/homestyle.css" rel = "stylesheet" type = "text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <h1><a href = "https://njshankar.github.io/personal/index.html">Nathan (JJ) Shankar</a></h1>
+    </header>
+    <div class = "nav">
+      <ul>
+        <li><a href = "./about.html">About</a></li>
+        <li><a href = "./projects.html">Projects</a></li>
+        <li><a href = "./random.html">Random</a></li>
+      </ul>
+    </div>
+    <div class = "notes">
+      <h2>Some things that make me happy (3/13)</h2>
+      <div class = "imagebox">
+        <img src = "https://njshankar.github.io/personal/IMG1732.PNG">
+      </div>
+      <p>The smell of Indomie bubbling in the kettle at 11 pm.</p>
+      <p>Mom tells me she had another strange dream about grandmom. She wants me to interpret it for her like Joseph.</p>
+      <p>The notes of the Ravel piece emanating from underneath my fingertips. Now it's actually starting to sound like the recordings do.</p>
+      <p>My friend sends me pictures of her Austin trip at 12:24 am. </p>
+      <p>The Illini, who have given me so much hope over this turbulent season. I don't even care if they win tomorrow.</p>
+      <p>The idea for problem two on the real analysis problem set comes to me as I'm doing the dishes.</p>
+      <p>Watching K-pop videos before bedtime.</p>
+      <p>Lieutenant Columbo.</p>
+      <p>Writing about things that make me happy.</p>
+      <br>
+      <br>
+    </div>
+  </body>
+</html>
