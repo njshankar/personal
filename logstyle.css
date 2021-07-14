@@ -131,8 +131,9 @@ header h1 a{
   justify-self: center;
   width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: auto auto;
+  padding: 10px 10px;
 }
 
 
