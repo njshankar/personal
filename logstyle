@@ -1,0 +1,125 @@
+body {
+  background-color: white;
+  font-family: "Nunito Sans", Helvetica, sans-serif;
+}
+
+
+header {
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 1px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.nav {
+  background-color: Burnt orange;
+  width: 400px;
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 2px;
+  margin: 0 auto;
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  list-style-type : none;
+}
+
+.nav li {
+  font-weight: 100; 
+  padding: 5px;
+  width: 100px;
+  display: inline-block;
+}
+
+.nav li:hover{
+  background-color: white;
+  font-weight: bold;
+}
+
+h1 {
+  color: maroon;
+}
+
+.intro {
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  width: 700px;
+}
+
+.nav ul li a{
+  text-decoration: none;
+  color: black;
+}
+
+header h1 a{
+  text-decoration: none;
+  color: black
+}
+
+.aboutme{
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.aboutme ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  list-style-type : none;
+}
+
+.boxcontainer{
+  padding: 10px;
+  text-align: center;
+  margin: 50px auto;
+  width: 700px;
+}
+
+.subbox{
+  padding: 10px;
+  text-align:center;
+  width: 160px;
+  height: 140px;
+  margin: 10px 10px;
+  border: solid black 1px;
+  display: inline-block;
+}
+
+.subbox:hover{
+  border: solid black 1px;
+  background-color: #D0D0D0	;
+} 
+
+.subbox a{
+  text-decoration: none;
+  color: black;
+}
+
+.notes{
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  width: 700px;
+}
+
+.imagebox{
+  width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.imagebox img{
+  width: 500px;
+  margin: 0 auto;
+  height: 300px;
+}
