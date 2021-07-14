@@ -139,19 +139,35 @@ header h1 a{
 .titleBox {
   grid-column: 1 / 5;
   grid-row: 1;
+  border-top: 5px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left: 5px solid black;
 }
 
 .dateBox {
   grid-column: 5 / 6;
   grid-row: 1;
+  border-top: 5px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
 }
 
 .rateBox {
   grid-column: 6 / 7;
   grid-row: 1;
+  border-top: 5px solid black;
+  border-right: 5px solid black;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
 }
 
 .blurbBox {
   grid-column: 1 / 7;
   grid-row: 2;
+  border-top: 2px solid black;
+  border-right: 5px solid black;
+  border-bottom: 5px solid black;
+  border-left: 5px solid black;
 }
