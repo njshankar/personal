@@ -172,3 +172,7 @@ header h1 a{
   border-bottom: 5px solid black;
   border-left: 5px solid black;
 }
+
+.checked {
+  color: orange;
+}
