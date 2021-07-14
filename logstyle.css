@@ -175,6 +175,7 @@ header h1 a{
 
 .blurbBox p {
   text-align: left;
+  padding: 5px 5px;
 }
 
 .checked {
