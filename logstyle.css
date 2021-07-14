@@ -129,7 +129,7 @@ header h1 a{
 
 .logContainer {
   justify-self: center;
-  width: 60%;
+  width: 100%;
   display: grid;
   grid-template columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template rows: auto auto;
