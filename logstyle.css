@@ -173,11 +173,6 @@ header h1 a{
   border-left: 5px solid black;
 }
 
-.blurbBox p {
-  text-align: left;
-  padding: 5px 5px;
-}
-
 .checked {
   color: orange;
 }
