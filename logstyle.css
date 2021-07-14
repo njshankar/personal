@@ -110,6 +110,7 @@ header h1 a{
   text-align: center;
   margin: 0 auto;
   width: 700px;
+  justify-content: center;
 }
 
 .imagebox{
@@ -122,4 +123,34 @@ header h1 a{
   width: 500px;
   margin: 0 auto;
   height: 300px;
+}
+
+
+
+.logContainer {
+  width: 60%;
+  display: grid;
+  grid-template columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template rows: auto auto;
+}
+
+
+.titleBox {
+  grid-column: 1 / 5;
+  grid-row: 1;
+}
+
+.dateBox {
+  grid-column: 5 / 6;
+  grid-row: 1;
+}
+
+.rateBox {
+  grid-column: 6 / 7;
+  grid-row: 1;
+}
+
+.blurbBox {
+  grid-column: 1 / 7;
+  grid-row: 2;
 }
