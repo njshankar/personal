@@ -203,3 +203,7 @@ header h1 a{
   grid-column: 5 / 6;
   grid-row: 1;
 }
+
+.starBox p{
+  font-size: 20px;
+}
