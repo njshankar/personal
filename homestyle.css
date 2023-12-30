@@ -119,7 +119,11 @@ header h1 a{
 }
 
 .imagebox img{
-  width: 500px;
+  width: 615px;
   margin: 0 auto;
   height: 300px;
+}
+
+.imagebox p{
+  width: 615px;
 }
