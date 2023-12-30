@@ -121,9 +121,10 @@ header h1 a{
 .imagebox img{
   width: 615px;
   margin: 0 auto;
-  height: 300px;
+  height: 350px;
 }
 
 .imagebox p{
   width: 615px;
+  text-align: center;
 }
