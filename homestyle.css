@@ -126,5 +126,5 @@ header h1 a{
 
 .imagebox p{
   width: 615px;
-  text-align: center;
+  margin: 0 auto;
 }
