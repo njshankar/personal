@@ -128,3 +128,20 @@ header h1 a{
   width: 615px;
   margin: 0 auto;
 }
+
+.imagebox2{
+  width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.imagebox2 img{
+  width: 615px;
+  margin: 0 auto;
+  height: 460px;
+}
+
+.imagebox2 p{
+  width: 615px;
+  margin: 0 auto;
+}
