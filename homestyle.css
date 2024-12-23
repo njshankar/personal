@@ -138,9 +138,14 @@ header h1 a{
 }
 
 .imagebox2 img{
+  transition: transform .2s;
   width: 615px;
   margin: 0 auto;
   height: 460px;
+}
+
+.imagebox2 img:hover{
+  transform:scale(2.5);
 }
 
 .imagebox2 p{
