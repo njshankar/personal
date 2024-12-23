@@ -14,7 +14,7 @@ header {
 }
 
 .nav {
-  background-color: Burnt orange;
+  background-color: LightSteelBlue;
   width: 400px;
   border-top-style: solid;
   border-top-color: black;
@@ -23,6 +23,8 @@ header {
   border-bottom-color: black;
   border-bottom-width: 2px;
   margin: 0 auto;
+  position: sticky;
+  top: 0;
 }
 
 .nav ul {
@@ -40,7 +42,7 @@ header {
 }
 
 .nav li:hover{
-  background-color: white;
+  background-color: LightSteelBlue;
   font-weight: bold;
 }
 
