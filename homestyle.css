@@ -144,11 +144,29 @@ header h1 a{
   height: 460px;
 }
 
-.imagebox2 img:hover{
+.imagebox2 p{
+  width: 615px;
+  margin: 0 auto;
+}
+
+.imagebox3{
+  width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.imagebox3 img{
+  transition: transform .2s;
+  width: 615px;
+  margin: 0 auto;
+  height: 460px;
+}
+
+.imagebox3 img:hover{
   transform:scale(1.7);
 }
 
-.imagebox2 p{
+.imagebox3 p{
   width: 615px;
   margin: 0 auto;
 }
